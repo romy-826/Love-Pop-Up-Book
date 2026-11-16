@@ -1,0 +1,10 @@
+{
+  "name": "velvet-anniversary-book",
+  "private": true,
+  "version": "1.0.0",
+  "description": "绿色丝绒纪念册，静态网页与局部立体纸机关。",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "check": "node tools/check.mjs"
+  }
+}
